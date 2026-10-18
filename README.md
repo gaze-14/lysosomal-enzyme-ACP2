@@ -1,4 +1,4 @@
-# Exploring Lysosomal Enzymes Using NCBI and R
+## Exploring Lysosomal Enzymes Using NCBI and R
 
 **Gene Symbol:** ACP2
 **Enzyme Name:** Lysosomal Acid Phosphatase Isoform 1 Precursor
@@ -72,7 +72,7 @@ The `ggplot2` package was used to generate a bar chart showing the frequency of 
 
 ![Figure 1. Amino acid composition](figures/ACP2_amino_acid_composition.png)
 
-**Result:** The bar chart compares the counts of the different amino acids. The corresponding numerical counts and percentages are available in `results/ACP2_amino_acid_counts.csv`.
+**Result:** The bar chart compares the counts of the different amino acids. The numerical counts and percentages are available in `results/ACP2_amino_acid_counts.csv`.
 
 ### Step 5. Visualize Potential N-Glycosylation Motifs
 
