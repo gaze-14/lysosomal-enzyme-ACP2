@@ -82,7 +82,7 @@ The second figure shows the positions of the detected N-X-S/T motifs along the p
 
 **Figure 2. Potential N-Glycosylation Motifs**
 
-![Figure 2. Potential N-glycosylation motifs](figures/ACP2_potential_N_glycosylation.png)
+![Figure 2. Potential N-glycosylation motifs](figures/ACP2_potential_N_glycosylation.png)(figures/ACP2_potential_N_glycosylation.png)
 
 **Result:** The figure summarizes the positions of potential N-glycosylation motifs along the protein sequence. These are predicted motifs, not experimentally confirmed glycosylation sites.
 
